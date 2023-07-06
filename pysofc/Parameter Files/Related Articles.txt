@@ -1,0 +1,22 @@
+
+1- cell_parameters_jung2005.json:
+
+H.Y. Jung, W.-S. Kim, S.-H. Choi, H.-C. Kim, J. Kim, H.-W. Lee, J.-H. Lee,
+Effect of cathode current-collecting layer on unit-cell performance of anode-supported solid oxide fuel cells,
+Journal of Power Sources,
+Volume 155, Issue 2,
+2006,
+Pages 145-151,
+ISSN 0378-7753,
+https://doi.org/10.1016/j.jpowsour.2005.05.015.
+
+2- cell_parameters_kazempoor2014.json
+
+P. Kazempoor, R.J. Braun,
+Model validation and performance analysis of regenerative solid oxide cells for energy storage applications: Reversible operation,
+International Journal of Hydrogen Energy,
+Volume 39, Issue 11,
+2014,
+Pages 5955-5971,
+ISSN 0360-3199,
+https://doi.org/10.1016/j.ijhydene.2014.01.186.

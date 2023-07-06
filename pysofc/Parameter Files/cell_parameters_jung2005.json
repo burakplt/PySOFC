@@ -1,0 +1,34 @@
+{
+    "cell_id": "jung2005",
+    "dimensions": {
+        "channel_height": 1.02e-3,
+        "channel_width": 2e-3,
+        "channel_length": 5e-2,
+        "total_electroactive_area": 16e-4,
+        "thickness_cathode_electrode": 38e-6,
+        "thickness_anode_electrode": 1015e-6,
+        "thickness_electrolyte": 7e-6
+    },
+    "activation_parameters": {
+        "activation_energy_fuel": 1e+5,
+        "activation_energy_oxygen": 1.2e+5,
+        "pre_exp_factor_fuel": 1.344e+10,
+        "pre_exp_factor_oxygen": 2.051e+9
+    },
+    "diffusion_parameters": {
+        "porosity": 0.4,
+        "tortuosity": 3,
+        "pore_diameter": 1.4e-6,
+        "diffusion_volumes": {
+            "H2": 6.12,
+            "N2": 18.5,
+            "O2": 16.3,
+            "H2O": 13.1
+        }
+    },
+    "ohmic_parameters": {
+        "activation_energy_electrolyte": 85638,
+        "pre_exp_factor_electrolyte": 3.7e+4,
+        "other_ohmic_resistance": 0.053e-4
+    }
+}
