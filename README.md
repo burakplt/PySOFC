@@ -15,7 +15,7 @@ from pysofc import startGUI
 
 startGUI()
 ```
-![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AFGJ81plEmmcl1wWHdY12GtfqUroJkP9lbWg9bULhHcteYFJr7Ys4QXosxI4ktyDZrte9YtMbezrJkHcqZxw4eWWbekBuoC-zQ=s1600)
+![App Screenshot](https://github.com/burakplt/PySOFC/assets/22001926/2c85fe0f-88d8-4094-b7e7-b6f90ca4e5a9)
 
 Watch the video of an example usage case of graphical user interface. It provides much more information than pages long documentation. 
 
@@ -67,7 +67,7 @@ It returns the following dictionary of results and shows plots by default. If yo
 # ERROR is calculated only if experimental data are provided, otherwise retturns None.
 ``` 
 ***Screenshot of generated plots***
-![App Screenshot](https://lh3.googleusercontent.com/drive-viewer/AFGJ81p6-NrHYujCBnynOD9VN7ybqEsH8wJBLoFcNnWMrhjBPAFgSjWkwIKbJCZ32oLPLCDIbTh41Ddt6Z_5qyha5fCKXmSO=s1600)
+![App Screenshot](https://github.com/burakplt/PySOFC/assets/22001926/44ddd6c8-2e18-4546-8eef-aa1c4268d523)
 
 You can also calculate operation voltage for a single current density point or vice versa.
 ```python
